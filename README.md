@@ -1,4 +1,5 @@
-<h2 align="left">Olá mundo, Eu sou o Marcos</h2>
+<h2 align="left">Olá mundo, Eu sou o Marcos..</h2>
+<h5 align="left">Desde sempre, a tecnologia tem sido minha paixão, e essa paixão me levou a buscar conhecimento e habilidades em programação.</h5>
 
 ###
 
